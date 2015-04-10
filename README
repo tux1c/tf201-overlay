@@ -1,0 +1,15 @@
+PORTDIR_OVERLAY of tf201 by Tux1c
+-----------------------------------------------------
+
+This overlay is used for ASUS Transformer Prime tf201
+
+you can use this overlay with Gentoo Linux and it's derivatives.
+
+INSTALL:
+
+  layman -a tf201
+  layman -S
+
+After this you can emerge everything from this overlay.
+
+For more info about how to install Gentoo on your tf201, please see the wiki.

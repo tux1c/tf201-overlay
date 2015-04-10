@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layman>
+  <overlay contact="tux1c@gmail.com" name="tf201" src="git://github.com/Tux1c/tf201-overlay.git" status="unofficial" type="git">
+    <link>https://github.com/coldnew/tf700-overlay</link>
+    <description>ASUS tf201 portage overlay</description>
+  </overlay>
+</layman>
